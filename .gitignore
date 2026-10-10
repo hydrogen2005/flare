@@ -37,3 +37,9 @@ config.yml
 .flare-cookie-secret-*
 
 RELEASE_*
+
+# Local deployment data and migration backups
+/backup-before-import-*.json
+/imported-data-*.json
+/layout-backup/
+/flare-live.png

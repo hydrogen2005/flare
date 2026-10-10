@@ -1,3 +1,5 @@
+> **Cloudflare Workers 迁移版**：原生 Workers 实现位于 [`workers/`](workers/README.md)，包含导航、在线编辑、合肥天气、备份导入和紧凑布局。使用 Durable Objects 持久保存配置。原始 Go 源码保留在本仓库，详细部署方法与功能差异请查看 [Workers 文档](workers/README.md)。
+
 # Flare
 
 Challenge all bookmarking apps and websites directories, Aim to Be a best performance monster.

@@ -1,0 +1,10 @@
+{
+  "name":"hydrogen-flare",
+  "account_id":"90718456b96a8437af123bc6dce6e571",
+  "main":"src/index.js",
+  "compatibility_date":"2026-10-10",
+  "assets":{"directory":"public","binding":"ASSETS","run_worker_first":["/","/editor","/settings","/login","/help","/api/*"]},
+  "durable_objects":{"bindings":[{"name":"FLARE","class_name":"FlareStore"}]},
+  "migrations":[{"tag":"v1","new_sqlite_classes":["FlareStore"]}],
+  "workers_dev":true
+}
