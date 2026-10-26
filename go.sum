@@ -25,8 +25,8 @@ github.com/mattn/go-colorable v0.1.15/go.mod h1:6LmQG8QLFO4G5z1gPvYEzlUgJ2wF+stg
 github.com/mattn/go-isatty v0.0.24 h1:tGZZoVgT/KiqK1c8ocVLeDS8BSWMRd47J3Lbz7vsReI=
 github.com/mattn/go-isatty v0.0.24/go.mod h1:nMCL3Zebbrt45jsMDgnfIwz6ydEQApk5oEI3HqDio6A=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/soulteary/cli-kit v1.9.0 h1:MqI51qtK+pspPDoF0WA0RctRrDXB/lkQ0Wl7qWO2eeQ=
-github.com/soulteary/cli-kit v1.9.0/go.mod h1:xwDFEGpNaL5Tgqsv2FW0PRPuCE80Um+LXDUUIzcQxgQ=
+github.com/soulteary/cli-kit v1.9.2 h1:lciNt542e/YwV8aTSOLABtA6GTOv6i7iaTV+4w9SAAA=
+github.com/soulteary/cli-kit v1.9.2/go.mod h1:/u1MG5w4C04y2UvjQ2hUgkmFIWX36F26IUzRsBR5qP8=
 github.com/soulteary/funny-china-weather v0.1.1 h1:b/RPaANSgDkrsQ4q2h5iaGs+S1yTBp9e3VYUkra5uiU=
 github.com/soulteary/funny-china-weather v0.1.1/go.mod h1:4po196pA+zjhoAgckkUtmLo2bu2r7jl/kwITRKGQYTw=
 github.com/soulteary/memfs v0.1.0 h1:phV9TrPmiU6MBc0C2jiOWqjU/eBb4KkF/hBpI/2LHj8=
