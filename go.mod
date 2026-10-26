@@ -1,6 +1,6 @@
 module github.com/soulteary/flare
 
-go 1.27.0
+go 1.27.3
 
 require (
 	github.com/caarlos0/env/v6 v6.10.1
@@ -9,7 +9,7 @@ require (
 	github.com/jszwec/csvutil v1.10.0
 	github.com/labstack/echo-contrib/v5 v5.0.0
 	github.com/labstack/echo/v5 v5.4.0
-	github.com/soulteary/cli-kit v1.9.0
+	github.com/soulteary/cli-kit v1.9.2
 	github.com/soulteary/funny-china-weather v0.1.1
 	github.com/soulteary/memfs v0.1.0
 	github.com/soulteary/version-kit/v4 v4.0.0
